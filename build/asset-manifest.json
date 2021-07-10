@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efdbc9a4.chunk.css",
+    "main.js": "/static/js/main.233918f8.chunk.js",
+    "main.js.map": "/static/js/main.233918f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.592ca234.js",
+    "runtime-main.js.map": "/static/js/runtime-main.592ca234.js.map",
+    "static/js/2.034aef7f.chunk.js": "/static/js/2.034aef7f.chunk.js",
+    "static/js/2.034aef7f.chunk.js.map": "/static/js/2.034aef7f.chunk.js.map",
+    "static/js/3.a005d774.chunk.js": "/static/js/3.a005d774.chunk.js",
+    "static/js/3.a005d774.chunk.js.map": "/static/js/3.a005d774.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.efdbc9a4.chunk.css.map": "/static/css/main.efdbc9a4.chunk.css.map",
+    "static/js/2.034aef7f.chunk.js.LICENSE.txt": "/static/js/2.034aef7f.chunk.js.LICENSE.txt",
+    "static/media/Pic1.7eb8adc3.png": "/static/media/Pic1.7eb8adc3.png",
+    "static/media/Pic2.fe903d85.png": "/static/media/Pic2.fe903d85.png",
+    "static/media/dining1.7c5933cd.png": "/static/media/dining1.7c5933cd.png",
+    "static/media/dining2.3dc5d72d.png": "/static/media/dining2.3dc5d72d.png",
+    "static/media/dining3.173e5704.png": "/static/media/dining3.173e5704.png",
+    "static/media/dining4.cd3d8ad6.png": "/static/media/dining4.cd3d8ad6.png",
+    "static/media/lobbyCouple.b1bd4853.jpg": "/static/media/lobbyCouple.b1bd4853.jpg",
+    "static/media/pic10.81089373.png": "/static/media/pic10.81089373.png",
+    "static/media/pic11.4dc5fa62.png": "/static/media/pic11.4dc5fa62.png",
+    "static/media/pic12.ef08a85b.png": "/static/media/pic12.ef08a85b.png",
+    "static/media/pic3.e9d201aa.png": "/static/media/pic3.e9d201aa.png",
+    "static/media/pic4.ecd51803.png": "/static/media/pic4.ecd51803.png",
+    "static/media/pic5.6afe597c.png": "/static/media/pic5.6afe597c.png",
+    "static/media/pic7.f9dd71fd.png": "/static/media/pic7.f9dd71fd.png",
+    "static/media/pic8.4cf6cd73.png": "/static/media/pic8.4cf6cd73.png",
+    "static/media/pic9.a8673bba.png": "/static/media/pic9.a8673bba.png",
+    "static/media/pool.3af99695.jpg": "/static/media/pool.3af99695.jpg",
+    "static/media/poolModel.c5e4d2ac.jpg": "/static/media/poolModel.c5e4d2ac.jpg",
+    "static/media/room.57450eba.png": "/static/media/room.57450eba.png",
+    "static/media/villa.2ae28381.png": "/static/media/villa.2ae28381.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.592ca234.js",
+    "static/js/2.034aef7f.chunk.js",
+    "static/css/main.efdbc9a4.chunk.css",
+    "static/js/main.233918f8.chunk.js"
+  ]
+}

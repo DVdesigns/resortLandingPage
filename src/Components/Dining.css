@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&family=Work+Sans:wght@200&display=swap');
+
+.diningLeft {
+background-color: #eed;
+  display: flex;
+  border: 1px #555;
+  box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  padding: 20px;
+  margin: 20px;
+  -moz-box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  -webkit-box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  -o-box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+
+}
+
+.centerImages{
+  align-items: center;
+  display: flex;
+}
+
+
+.smallerParaBox{
+  word-wrap: smallerParaBox;
+  display: flex;
+  width:auto;
+  height: auto;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+h1 {
+  font-family: 'Shadows Into Light Two', cursive;
+  align-items: center;
+}
+
+p {
+  font-family: 'Work Sans', sans-serif;
+  align-items: center;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #F4ACB7;
+  z-index: 3;
+  font-family: 'Limelight', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+
+.navBarStyle{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.buttonStyle {
+ font-size: 20px;
+ font-family: 'Limelight', cursive;
+ margin: 13px;
+}

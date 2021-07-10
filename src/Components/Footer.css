@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: #F4ACB7;
+  z-index: 3;
+  font-family: 'Limelight', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
